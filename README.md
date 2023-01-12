@@ -9,13 +9,13 @@
 <p align="center">
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats.vercel.app/api?username=Quicksilver151&show_icons=true&theme=tokyonight&card_width=400 />
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quicksilver151&show_icons=true&theme=tokyonight&card_width=400 />
   </a>
     
   </br>
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Quicksilver151&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=3&show_icons=true&card_width=400&theme=tokyonight&hide=javascript,html,css />
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quicksilver151&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=3&show_icons=true&card_width=400&theme=tokyonight&hide=javascript,html,css />
   </a>
 </p>
 
