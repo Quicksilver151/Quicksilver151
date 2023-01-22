@@ -12,6 +12,12 @@
   <a href="https://git.io/streak-stats">
     <img src=https://streak-stats.demolab.com/?user=Quicksilver151&&theme=tokyonight&&hide_border=true&card_width=495>
   </a>
+   
+  </br>
+  </br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quicksilver151&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css />
   
   </br>
   </br>
@@ -20,12 +26,6 @@
     <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quicksilver151&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
   </a>
     
-  </br>
-  </br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quicksilver151&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=3&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css />
-  
 </p>
 
 <!--
