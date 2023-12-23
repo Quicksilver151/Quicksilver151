@@ -1,0 +1,6 @@
+[book]
+authors = ["Default Cube"]
+language = "en"
+multilingual = false
+src = "src"
+title = "SilverPage"
