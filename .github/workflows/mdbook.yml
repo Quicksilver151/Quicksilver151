@@ -42,7 +42,7 @@ jobs:
         with: 
           path: |
             /home/runner/.cargo/bin/mdbook
-          key: ${{ runner.os }}-mdbook-${{ hashFiles('**/lockfiles') }}
+          key: ${{ runner.os }}-mdbook-
 
       - name: Setup Pages
         id: pages
