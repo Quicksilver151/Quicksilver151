@@ -40,7 +40,10 @@ jobs:
       - name: Cache
         uses: actions/cache@v3.3.2
         with: 
-          path: mdbook
+          path: |
+            /home/runner/.cargo/bin/mdbook
+          key: ${{ runner.os }}-mdbook-${{ hashFiles('**/lockfiles') }}
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
