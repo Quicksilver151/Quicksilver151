@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,godot,py,blender,neovim,bash,git" />
+    <img src="https://skillicons.dev/icons?i=rust,godot,py,neovim,blender,bash,git" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
   </br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quicksilver151&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quicksilver151&hide_border=true&show_icons=true&theme=nord&card_width=495 />
   </a>
     
 </p>
