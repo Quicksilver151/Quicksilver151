@@ -1,33 +1,32 @@
 
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,godot,py,neovim,blender,bash,git" />
+    <img src="https://skillicons.dev/icons?i=rust,godot,debian,py,neovim,blender,nix,bash,git" />
   </a>
 </p>
 
 <p align="center">
-  </br>
   
   <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=Quicksilver151&&theme=tokyonight&&hide_border=true&card_width=495>
+    <img src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=Quicksilver151&theme=tokyonight&hide_border=true&fire=EB5454" alt="GitHub Streak" />
+  </a>
+  
+  </br>
+  </br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-333y.vercel.app/api?username=Quicksilver151&theme=tokyonight&hide_border=true&card_width=495">
   </a>
    
   </br>
   </br>
-<!--
+
  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quicksilver151&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
-  -->
+    <img src=https://github-readme-stats-333y.vercel.app/api/top-langs/?username=Quicksilver151&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css,scss,nunjucks>
   
   </br>
   </br>
 
-<!--
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quicksilver151&hide_border=true&show_icons=true&theme=nord&card_width=495 />
-  </a>
--->
 
 </p>
 
