@@ -31,27 +31,32 @@ jobs:
     env:
       MDBOOK_VERSION: 0.4.36
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Cache
-        uses: actions/cache@v3.3.2
-        with: 
-          path: |
-            /home/runner/.cargo/bin/mdbook
-          key: ${{ runner.os }}-mdbook-
+      - name: Setup Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache Rust and mdBook
+        uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: .
+
+      - name: Install mdBook
+        run: |
+          cargo install mdbook --version ${{ env.MDBOOK_VERSION }} --locked
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
+
       - name: Build with mdBook
         run: mdbook build
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./book
-
- 
-
 
   # Deployment job
   deploy:
